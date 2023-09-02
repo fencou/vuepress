@@ -1,26 +1,48 @@
 ---
 home: true
+icon: home
+title: 项目主页
 heroImage: /images/hero.png
-heroAlt: 文档中心
-tagline: 发群私域通、红包多多、章鱼爆客
+bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImageStyle:
+  background-attachment: fixed
+heroText: 项目名称
+tagline: 你可以在这里放置或是整个项目的描述。
 actions:
-  - text: 快速上手
-    link: /zh/guide/getting-started.html
+  - text: 红包多多 💡
+    link: ./hbdd/
     type: primary
-  - text: 项目简介
-    link: /guide/
-    type: secondary
-features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-  - title: Vue 驱动
-    details: 享受 Vue 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。
-  - title: 高性能
-    details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
 
-footer: 版权所有
+  - text: 文档
+    link: ./
+
+highlights:
+
+
+  - header: 在 Markdown 中添加你想要的内容
+    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
+
+    features:
+      - title: 链接检查
+        icon: clipboard-check
+        details: 检查 Markdown 链接
+        link: #
+
+      - title: 自定义容器支持
+        icon: box-archive
+        details: 用样式装饰 Markdown 内容
+        link: #
+
+      - title: 选项卡
+        icon: table-columns
+        details: 使用选项卡对相似内容进行分组
+        link: #
+
+      
+
+ 
+copyright: false
+footer: 版权所有 © 2019-present Mr.Hope
 ---
 
-# Hello VuePress
-## 你好
-' 

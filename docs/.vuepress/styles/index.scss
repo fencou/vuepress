@@ -1,0 +1,18 @@
+// place your custom styles here
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+mark {
+    font-weight: 500;
+    background: none;
+    background-image: linear-gradient(120deg,rgba(255,193,7,0.4) 20%,rgba(255,193,7,0.4) 100%);
+    background-repeat: no-repeat;
+    background-position: 0 90%;
+    position: relative;
+    background-size: 100% .5em;
+    display: -webkit-inline-box;
+}
