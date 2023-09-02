@@ -15,6 +15,8 @@ export const pagesData = {
   "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /faqun/
   "v-7d376e19": () => import(/* webpackChunkName: "v-7d376e19" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/faqun/index.html.js").then(({ data }) => data),
+  // path: /guide/
+  "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
   // path: /hbdd/az.html
   "v-e93ec8b8": () => import(/* webpackChunkName: "v-e93ec8b8" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/hbdd/az.html.js").then(({ data }) => data),
   // path: /hbdd/cz.html
@@ -29,8 +31,6 @@ export const pagesData = {
   "v-14aa9d1c": () => import(/* webpackChunkName: "v-14aa9d1c" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/hbdd/index.html.js").then(({ data }) => data),
   // path: /hbdd/upfaq.html
   "v-08d0613a": () => import(/* webpackChunkName: "v-08d0613a" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/hbdd/upfaq.html.js").then(({ data }) => data),
-  // path: /guide/
-  "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
   // path: /guide/bar/baz.html
   "v-177e1f06": () => import(/* webpackChunkName: "v-177e1f06" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/guide/bar/baz.html.js").then(({ data }) => data),
   // path: /guide/bar/

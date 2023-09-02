@@ -17,6 +17,8 @@ export const pagesComponents = {
   "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/demo/index.html.vue")),
   // path: /faqun/
   "v-7d376e19": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d376e19" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/faqun/index.html.vue")),
+  // path: /guide/
+  "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/guide/index.html.vue")),
   // path: /hbdd/az.html
   "v-e93ec8b8": defineAsyncComponent(() => import(/* webpackChunkName: "v-e93ec8b8" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/hbdd/az.html.vue")),
   // path: /hbdd/cz.html
@@ -31,8 +33,6 @@ export const pagesComponents = {
   "v-14aa9d1c": defineAsyncComponent(() => import(/* webpackChunkName: "v-14aa9d1c" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/hbdd/index.html.vue")),
   // path: /hbdd/upfaq.html
   "v-08d0613a": defineAsyncComponent(() => import(/* webpackChunkName: "v-08d0613a" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/hbdd/upfaq.html.vue")),
-  // path: /guide/
-  "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/guide/index.html.vue")),
   // path: /guide/bar/baz.html
   "v-177e1f06": defineAsyncComponent(() => import(/* webpackChunkName: "v-177e1f06" */"D:/建站类/vuepress/docs/.vuepress/.temp/pages/guide/bar/baz.html.vue")),
   // path: /guide/bar/

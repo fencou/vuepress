@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:clean-dev": "vuepress dev docs --clean-cache",
-    "docs:update-package": "npx vp-update"
+    "docs:build": "vuepress build docs"
   },
   "author": "",
   "license": "ISC",
