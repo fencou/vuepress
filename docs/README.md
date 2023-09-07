@@ -1,21 +1,19 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 文档中心
 heroImage: /images/hero.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: 文档中心
+tagline: 发群私域通产品使用文档
 actions:
   - text: 红包多多 💡
     link: ./hbdd/
     type: primary
 
-  - text: 文档
-    link: ./
+  - text: 发群私域通
+    link: ./syt/
 
 highlights:
 
@@ -43,6 +41,6 @@ highlights:
 
  
 copyright: false
-footer: 版权所有 © 2019-present Mr.Hope
+footer: 版权所有 © 2019-faqun.cn
 ---
 

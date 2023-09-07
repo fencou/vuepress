@@ -8,7 +8,7 @@ export default navbar([
   {
     text: '发群私域通文档',
     icon: "book",
-    link: '/faqun/',
+    link: '/syt/',
   },
   {
     text: '红包多多文档',

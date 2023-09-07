@@ -1,5 +1,5 @@
 ---
-title: 6️⃣ 高级问题处理
+title: 6️⃣ 电脑系统高级问题
 description: 
 author: 红包多多
 ---
@@ -7,7 +7,11 @@ author: 红包多多
 此处问题多为电脑系统问题
 :::
 
-::: details 安装提示
+::: details 安装提示Called RunScript when not marked in progress.
+1. 找到`C:\Windows\Temp` 目录
+2. 右击 `Temp` 目录，选择属性，点击 <kbd>安全</kbd> 选项
+3. 点击  <kbd>编辑</kbd> 
+4. 选中当前进系统的用户名，把权限全部选成允许；
 
 :::
 
@@ -33,7 +37,7 @@ author: 红包多多
 
 :::
 
-::: details 更新下载失败
+::: details 更新下载失败DownloadFile error: InternetOpenUrlA error!!!
 
 - 打开电脑搜索框，搜 `internet选项`
 - 打开 `internet选项` ，点高级，勾选几个高级协议

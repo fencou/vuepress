@@ -5,11 +5,11 @@ import clientConfig3 from 'D:/建站类/vuepress/node_modules/vuepress-plugin-au
 import clientConfig4 from 'D:/建站类/vuepress/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
 import clientConfig5 from 'D:/建站类/vuepress/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig6 from 'D:/建站类/vuepress/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import clientConfig7 from 'D:/建站类/vuepress/node_modules/vuepress-plugin-comment2/lib/client/config.js'
-import clientConfig8 from 'D:/建站类/vuepress/node_modules/vuepress-plugin-copy-code2/lib/client/config.js'
-import clientConfig9 from 'D:/建站类/vuepress/docs/.vuepress/.temp/md-enhance/config.js'
-import clientConfig10 from 'D:/建站类/vuepress/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
-import clientConfig11 from 'D:/建站类/vuepress/docs/.vuepress/.temp/theme-hope/config.js'
+import clientConfig7 from 'D:/建站类/vuepress/node_modules/vuepress-plugin-copy-code2/lib/client/config.js'
+import clientConfig8 from 'D:/建站类/vuepress/docs/.vuepress/.temp/md-enhance/config.js'
+import clientConfig9 from 'D:/建站类/vuepress/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
+import clientConfig10 from 'D:/建站类/vuepress/docs/.vuepress/.temp/theme-hope/config.js'
+import clientConfig11 from 'D:/建站类/vuepress/node_modules/@vuepress/plugin-docsearch/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
